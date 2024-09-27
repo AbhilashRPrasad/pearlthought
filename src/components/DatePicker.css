@@ -1,0 +1,5 @@
+.react-datepicker__input-container input:focus {
+  outline: none; /* Removes the focus outline */
+  border: none; /* Ensures there’s no border */
+  box-shadow: none; /* Ensures no box shadow is shown */
+}
